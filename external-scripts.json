@@ -4,5 +4,6 @@
   "hubot-pugme",
   "hubot-redis-brain",
   "hubot-shipit",
-  "hubot-plusplus"
+  "hubot-plusplus",
+  "hubot-heroku-keepalive"
 ]
